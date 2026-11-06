@@ -9,4 +9,3 @@ bloque.Material = Enum.Material.Plastic
 bloque.BrickColor = BrickColor.new("Bright red")
 bloque.Anchored = true
 bloque.Parent = carpeta
-
