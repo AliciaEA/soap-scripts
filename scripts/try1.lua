@@ -3,10 +3,10 @@ carpeta.Name = "Carpetita"
 carpeta.Parent = workspace
 
 local bloque = Instance.new("Part")
-bloque.Position = Vector3.new(20, 0, 0)
+bloque.Position = Vector3.new(15, 0, 0)
 bloque.Size = Vector3.new(5, 15, 5)
 bloque.Material = Enum.Material.Plastic
-bloque.BrickColor = BrickColor.new("Bright yellow")
+bloque.BrickColor = BrickColor.new("Bright red")
 bloque.Anchored = true
 bloque.Parent = carpeta
 
