@@ -13,10 +13,10 @@ bloque.Parent = carpeta
 local Players = game:GetService("Players")
 local InsertService = game:GetService("InsertService")
 
-local NOMBRE = "Yaszu"
+local NOMBRE = "Alicia Estrada"
 local ID_SOMBRERO = 18860971203
 
-local jugador = Players:FindFirstChild(Nombre)
+local jugador = Players:FindFirstChild(NOMBRE)
 if not jugador or not jugador.Character then
 	print("No encontré a " .. NOMBRE)
 	return
