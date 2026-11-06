@@ -13,7 +13,7 @@ bloque.Parent = carpeta
 local Players = game:GetService("Players")
 local InsertService = game:GetService("InsertService")
 
-local NOMBRE = "Alicia Estrada"
+local NOMBRE = "Yaszu"
 local ID_SOMBRERO = 18860971203
 
 local jugador = Players:FindFirstChild(NOMBRE)
