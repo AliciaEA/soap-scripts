@@ -11,7 +11,7 @@ bloque.Anchored = true
 bloque.Parent = carpeta
 
 local Players = game:GetService("Players")
-local NOMBRE = "yaszu"
+local NOMBRE = "Alicia Estrada"
 
 -- Buscar al jugador sin importar mayúsculas
 local jugador = nil
